@@ -1,0 +1,78 @@
+{
+  "id": 1108702903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"25.2701999,54.7126768,25.2701999,54.7126768",
+    "geom:latitude":54.712677,
+    "geom:longitude":25.2702,
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gele\u017einio Vilko g.18A",
+    "sg:city":"Vilnius",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"LT-08104",
+    "sg:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ],
+    "sg:website":"http://www.infobuild.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85685759,
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85929239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ln64yvYa6lHW4Nr3aWr5D_54.712677_25.270200@1308163239"
+    },
+    "wof:country":"LT",
+    "wof:created":1474570890,
+    "wof:geomhash":"80d70dfad37f243228ba30457f0e4524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85929239,
+            "region_id":85685759,
+            "venue_id":1108702903
+        }
+    ],
+    "wof:id":1108702903,
+    "wof:lastmodified":1474570890,
+    "wof:name":"InfoBuild",
+    "wof:parent_id":85929239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ]
+},
+  "bbox": [
+    25.2701999,
+    54.7126768,
+    25.2701999,
+    54.7126768
+],
+  "geometry": {"coordinates":[25.2701999,54.7126768],"type":"Point"}
+}
